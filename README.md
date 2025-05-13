@@ -7,7 +7,7 @@ This project investigates 4th down decision-making behavior in the NFL using 202
 NFL teams face critical choices on 4th down—decisions that can shift momentum and define outcomes. Historically driven by instinct, these decisions now demand data-backed approaches. This project explores what contextual features shape 4th down decisions and builds a framework to support more consistent and strategic play-calling.
 
 ## Data Summary
-- **Source**: Publicly available 2024 NFL play-by-play dataset ( Thedata file has been downloaded from [https://github.com/nflverse/nflverse-pbp ](url)
+- **Source**: Publicly available 2024 NFL play-by-play dataset (The data file has been downloaded from [https://github.com/nflverse/nflverse-pbp ](url)
 
 - **Time Frame**: Full regular season
 - **Scope**: Filtered to only include 4th down plays
